@@ -4,7 +4,7 @@ public class hello{
 private int att1;
 
 public void display(){
-system.out.println("hello world");
+system.out.println("hello aimene");
 
 }
 
